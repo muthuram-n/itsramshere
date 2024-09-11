@@ -298,7 +298,7 @@ button {
 }
 
 .home_blob-img {
-  width: 170px;
+  width: 200px;
 }
 
 .home_data {
@@ -306,7 +306,7 @@ button {
 }
 
 .home_title {
-  font-size: var(--big-font-size);
+  font-size:xx-large
 }
 
 .home_subtitle {
@@ -383,7 +383,7 @@ button {
 }
 
 .about_description {
-  text-align: center;
+  text-align :center;
   margin-bottom: var(--mb-1-5);
 }
 
